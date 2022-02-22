@@ -1,16 +1,17 @@
-### Hi there 👋
+#### Product Manager, Educator, and Writer. 
+![Product Manager, Educator, and Writer. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**deepamahalingam-okta/deepamahalingam-okta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I talk, code, write, zoom, test, and do anything else needed to take products from cradle to gate.
 
-Here are some ideas to get you started:
+Skills:  JS / REACT / HTML / CSS / GO / JAVA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Golang based Github Repo manager 
+- 🌱 I’m currently learning Haskell 
+- 👯 I’m looking to collaborate on anything education or analytics 
+- 🤔 I’m looking for help with my open source projects 
+- 😄 Pronouns: Any pronoun 
+- ⚡ Fun fact: I love Wordle. 
+
+
+
+
