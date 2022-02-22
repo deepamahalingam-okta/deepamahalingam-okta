@@ -1,7 +1,7 @@
-#### Product Manager, Educator, and Writer. 
+## Product Manager, Educator, and Writer. 
 ![Product Manager, Educator, and Writer. ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I talk, code, write, zoom, test, and do anything else needed to take products from cradle to gate.
+I work, plan, talk, code, write, zoom, test, and do anything else needed to take products from cradle to gate.
 
 Skills:  JS / REACT / HTML / CSS / GO / JAVA
 
@@ -11,6 +11,10 @@ Skills:  JS / REACT / HTML / CSS / GO / JAVA
 - 🤔 I’m looking for help with my open source projects 
 - 😄 Pronouns: Any pronoun 
 - ⚡ Fun fact: I love Wordle. 
+
+
+
+
 
 
 
